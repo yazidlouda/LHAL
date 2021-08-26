@@ -17,6 +17,8 @@
 		F4A9D62326D8134E00C759CA /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9D62226D8134E00C759CA /* WeatherManager.swift */; };
 		F4A9D62626D8136800C759CA /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9D62526D8136800C759CA /* WeatherData.swift */; };
 		F4A9D62926D8137B00C759CA /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A9D62826D8137B00C759CA /* WeatherModel.swift */; };
+		F4A9D62D26D81B4D00C759CA /* dave-hoefler-lsoogGC_5dg-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4A9D62B26D81B4D00C759CA /* dave-hoefler-lsoogGC_5dg-unsplash.jpg */; };
+		F4A9D62E26D81B4D00C759CA /* eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F4A9D62C26D81B4D00C759CA /* eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		F4A9D62226D8134E00C759CA /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		F4A9D62526D8136800C759CA /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		F4A9D62826D8137B00C759CA /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		F4A9D62B26D81B4D00C759CA /* dave-hoefler-lsoogGC_5dg-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "dave-hoefler-lsoogGC_5dg-unsplash.jpg"; path = "../../../Downloads/dave-hoefler-lsoogGC_5dg-unsplash.jpg"; sourceTree = "<group>"; };
+		F4A9D62C26D81B4D00C759CA /* eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg"; path = "../../../Downloads/eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 		F4A9D60626D8126900C759CA /* LHAL */ = {
 			isa = PBXGroup;
 			children = (
+				F4A9D62B26D81B4D00C759CA /* dave-hoefler-lsoogGC_5dg-unsplash.jpg */,
+				F4A9D62C26D81B4D00C759CA /* eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg */,
 				F4A9D61D26D812F700C759CA /* controller */,
 				F4A9D61C26D812DE00C759CA /* model */,
 				F4A9D60726D8126900C759CA /* AppDelegate.swift */,
@@ -153,8 +159,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4A9D61426D8128D00C759CA /* LaunchScreen.storyboard in Resources */,
+				F4A9D62E26D81B4D00C759CA /* eberhard-grossgasteiger-pBgnT4KH8d4-unsplash.jpg in Resources */,
 				F4A9D61126D8128D00C759CA /* Assets.xcassets in Resources */,
 				F4A9D60F26D8126A00C759CA /* Main.storyboard in Resources */,
+				F4A9D62D26D81B4D00C759CA /* dave-hoefler-lsoogGC_5dg-unsplash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
